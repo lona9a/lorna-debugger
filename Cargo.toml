@@ -1,0 +1,9 @@
+[package]
+name = "lornaDebug"
+version = "0.1.0"
+authors = ["lonaya"]
+
+[dependencies]
+libc = "0.2.34"
+capstone = "0.2.0"
+rocket = "0.5.0-rc.1"
