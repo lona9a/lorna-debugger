@@ -8,6 +8,9 @@ Implementing easy to use Web Interface and some trees like in GHIDRA and IDA
 TODO:
 - Implement other Architectures
 
+IMPLEMENTENTED ARCHITECTURES:
+- x86
+
 ## How to build
 
 Build with:
