@@ -2,8 +2,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # lorna-debugger :robot:	
 Heavy Metal Debugging with lorna-debug. Just another simple x86 debugger written in Rust. 
-- CURRENTLY:
-Implementing easy to use Web Interface and some trees like in GHIDRA and IDA
+CURRENTLY:
+- Implementing easy to use Web Interface and some trees like in GHIDRA and IDA
 
 TODO:
 - Implement other Architectures
